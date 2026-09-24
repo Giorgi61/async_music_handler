@@ -1,0 +1,2 @@
+# Exclude vendored EJS/TypeScript code from GitHub language statistics
+async_music/ejs/** linguist-vendored
