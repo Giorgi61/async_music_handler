@@ -25,6 +25,7 @@ The project combines `asyncio` with worker threads to download multiple tracks c
 The application uses `asyncio` for orchestration while moving blocking download operations to worker threads.
 
 ```text
+
                          URLs
                           │
                           ▼
@@ -260,4 +261,9 @@ The project provided practice with:
 * third-party library integration
 * progress tracking
 
+## 📄 License
+
+This project is licensed under the **GNU General Public License v3.0**.
+
+See the [LICENSE](./LICENSE) file for the full license text.
 
